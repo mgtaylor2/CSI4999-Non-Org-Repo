@@ -1,2 +1,2 @@
 # CSI4999
-Capstone Repo
+CSI4999 Capstone Repo - Project TBD
